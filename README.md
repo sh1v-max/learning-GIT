@@ -1,10 +1,16 @@
-# CLI and GIT
+# What is CLI and GIT?
 
-## Command Line Interface
-Click [here](README-CLI.md) to know more about CLI 
+## CLI (Command Line Interface)
 
-## GIT
-Click [here](README-GIT.md) to know more about GIT 
+The Command Line Interface (CLI) is a text-based interface for interacting with a computer's operating system. It provides an alternative to using a graphical user interface (GUI) for interacting with the operating system and running applications. The CLI is typically used for tasks that require a high degree of flexibility and automation, such as scripting and batch processing.
+
+> -  Click [here](README-CLI.md) to view basic commands of CLI 
+
+## GIT (Global Information Tracker)
+
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like local branching, staged commits, and multiple workflows.
+
+> *  Click [here](README-GIT.md) to view basic commands of GIT 
 
 <p align="center">
     <img src="./images/image.png" />
